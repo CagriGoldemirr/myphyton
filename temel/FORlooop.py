@@ -28,12 +28,7 @@ for sehir in sehirler:
     
 
       
-for sehir in sehirler:
-    if sehir == "ankara":      #döngüyü sadece ankara ile koşulladım
-        print(sehir + " " + "için kod = " + sehir[0:4])
-    if sehir == "balıkesir":
-        print(sehir + " " +  sehir[0:3] + " " + "gibidir")
-            
+
 
  
      

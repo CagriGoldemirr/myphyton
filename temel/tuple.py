@@ -8,6 +8,7 @@ Created on Sat Dec 24 18:23:31 2022
 #TUPLE listelere benziyor ama farklılılar var
 tupleliste = (2,4,6,"ankara") #listede köşeli parantez kullanyorduk ama burda parantez kullanıyoruz
 liste =[2,4,6,"ankara"]
+# tuplde listeden farklı olarak veriyi sonradan değiştiremiyorsunz
 
 
 
@@ -58,8 +59,7 @@ print(tupleListe[1:2]) # neden tuplenın çıktısının yanında virgül var? s
 
 print(liste3[1:2]) 
 
-
-
+ 
 
 
 
